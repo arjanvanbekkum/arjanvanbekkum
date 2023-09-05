@@ -37,6 +37,5 @@ On a personal note my two boys being born and working with Xpirit (wh00t, there 
 ## Contact me
 <a href="https://www.linkedin.com/in/arjanvanbekkum/" alt="linkedIn" target="_blank"><i class="fab fa-linkedin" style="font-size: 3em"></i>LinkedIn</a>
 
-<a href="https://twitter.com/arjanvanbekkum/" alt="Twitter" target="_blank"><i class="fab fa-twitter" style="font-size: 3em"></i>Twitter</a>
 
  
